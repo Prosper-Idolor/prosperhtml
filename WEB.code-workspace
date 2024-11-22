@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "GITCLASS"
+		},
+		{
+			"path": "PORTFOLIO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORTFOLIO"
+	}
+}
